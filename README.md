@@ -1,8 +1,7 @@
-# Machine-Learning-Using-Python-Templete
+# Machine-Learning-Using-Python 24Aug2020
 
 This repository consists of all the files, resources, and recorded session links which are discussed during Machine Learning using Python Online Training.
 
-[//]: # (Check your details here same will applicable on certificates if your details are missing update in last column  → [[GSheet]])
 
 ### Gotomeeting Link → [[Click Here to Join]](https://global.gotomeeting.com/join/645933341) → Meeting Id → `645933341`
 
