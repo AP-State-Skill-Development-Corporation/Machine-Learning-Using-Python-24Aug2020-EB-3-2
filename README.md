@@ -28,4 +28,4 @@ Everyone should compulsory follow the below instruction in order to get the atte
 1. [Notebook](Day-1/01_24Aug2020.ipynb)
 2. [ML ppt](Day-1/Machine_Learning_with_Python.pdf)
 3. [Anaconda Installation](Day-1/AnacondaInstallation.pdf)
-4. [Recorded class pending]()
+4. [Recorded class ](https://transcripts.gotomeeting.com/#/s/ca00e17f678293aa5c7958c3100e8680327e2232dcd297e3cd0054243cca338e)
