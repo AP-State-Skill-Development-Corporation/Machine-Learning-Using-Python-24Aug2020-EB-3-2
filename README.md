@@ -4,7 +4,7 @@ This repository consists of all the files, resources, and recorded session links
 
 [//]: # (Check your details here same will applicable on certificates if your details are missing update in last column  → [[GSheet]])
 
-### Gotomeeting Link → [[Click Here to Join]](https://global.gotomeeting.com/join/645933341) → Meeting Id → `110532853`
+### Gotomeeting Link → [[Click Here to Join]](https://global.gotomeeting.com/join/645933341) → Meeting Id → `645933341`
 
 
 #### APSSDC-ML-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
