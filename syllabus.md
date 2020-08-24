@@ -8,5 +8,5 @@
 |5|	Classification models - 1	|Logistic regression <br>Support Vector Machines|
 |6|	Classification models - 2	|Introduction to Decision Tree <br> Terminology related to Decision Trees  <br> Types of Decision Trees  <br> Decision Trees Classifier|
 |7|		Classification models - 2 | Decision Tree Regressor<br> Random Forest Algorithm|
-|8|	Unsupervised Learning and Clustering| Introduction to Unsupervised Learning <br> Types of Unsupervised Learning <br> Introduction to clustering <br> Types of Clustering methods <br> KMeans Clustering <br> Applications|
+|8|	Unsupervised Learning and Clustering| Introduction to Unsupervised Learning <br> Types of Unsupervised Learning <br> Introduction to clustering <br> Types of Clustering methods <br> KMeans Clustering <br> Applications|2
 |9|	Dimensionality Reduction|Dimensionality reduction<br>Principal Component Analysis (PCA)|
