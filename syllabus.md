@@ -1,6 +1,6 @@
 # Machine Learning using Python
 |Day No	|Lessons|	Topics|
-|---|---|---|---|
+|---|---|---|
 |1|	Introduction to Machine Learning and Overview of pandas	|What is Machine Learning <br> Machine Learning Classification <br> Types of Algorithms <br> Importing and Manipulation of Data|
 |2|	Sklearn Package, and Linear Regression using Machine Learning	| Linear Regression with One variable <br> Evaluation Metrics in Regression Models <br> Train/Test splitting of data &<br> Cross Validation <br> Linear Regression with Multiple Variables|
 |3|	Polynomial Regression	|Under fitting, Overfitting, Best fit <br> Polynomial Features <br> Non-Linear Regression with One variable <br> Non-Linear Regression with Multiple Variable|
