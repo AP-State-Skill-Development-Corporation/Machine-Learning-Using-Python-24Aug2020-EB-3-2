@@ -4,7 +4,7 @@ This repository consists of all the files, resources, and recorded session links
 
 [//]: # (Check your details here same will applicable on certificates if your details are missing update in last column  → [[GSheet]])
 
-[//]: # (### Gotomeeting Link → [[Click Here to Join]] → Meeting Id → `110532853`)
+### Gotomeeting Link → [[Click Here to Join]](https://global.gotomeeting.com/join/645933341) → Meeting Id → `110532853`
 
 
 #### APSSDC-ML-Datasets → [[Click Here]](https://github.com/AP-State-Skill-Development-Corporation/Datasets)
@@ -22,3 +22,5 @@ Everyone should compulsory follow the below instruction in order to get the atte
 5. Minimum **`90/120`** minutes should attend in **`120/150 minutes`** session with same login format
 
 ******************************
+
+#### Your details  printed on certificate so re-verify and if any modifications required update in this [sheet](https://docs.google.com/spreadsheets/d/1AzktFo1TbABRDiwVeTgXgKKUNc6q3rhcf4iFDZ5h3pc/edit?usp=sharing) 
