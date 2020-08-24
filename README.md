@@ -23,3 +23,9 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ******************************
 
 #### Your details  printed on certificate so re-verify and if any modifications required update in this [sheet](https://docs.google.com/spreadsheets/d/1AzktFo1TbABRDiwVeTgXgKKUNc6q3rhcf4iFDZ5h3pc/edit?usp=sharing) 
+
+### Day1 
+1. [Notebook](Day-1/01_24Aug2020.ipynb)
+2. [ML ppt](Day-1/Machine_Learning_with_Python.pdf)
+3. [Anaconda Installation](Day-1/AnacondaInstallation.pdf)
+4. [Recorded class pending]()
