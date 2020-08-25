@@ -42,5 +42,5 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ### Day2
 1. [Notebook](Day-2/02_25Aug2020.ipynb)
 2. [salary_data.csv](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Regression/Salary_Data.csv)
-2. [reliance.csv](Day2/reliance.csv)
+2. [reliance.csv](Day-2/reliance.csv)
 4. [Recorded class pending ]()
