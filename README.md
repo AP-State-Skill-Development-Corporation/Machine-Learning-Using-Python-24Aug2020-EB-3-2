@@ -22,7 +22,15 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ******************************
 
-#### Your details  printed on certificate so re-verify and if any modifications required update in this [sheet](https://docs.google.com/spreadsheets/d/1AzktFo1TbABRDiwVeTgXgKKUNc6q3rhcf4iFDZ5h3pc/edit?usp=sharing) 
+#### Your details  printed on certificate so re-verify and if any modifications required update in this [sheet](https://docs.google.com/spreadsheets/d/1AzktFo1TbABRDiwVeTgXgKKUNc6q3rhcf4iFDZ5h3pc/edit?usp=sharing)
+
+
+### To view your Attendance open this [sheet](https://docs.google.com/spreadsheets/d/1P5M4-MYxCcQgPAZjY7gZKUohCINvNmaAOgDo63us6Dc/edit?usp=sharing)
+
+#### Reasons for Absent
+1. You are not followed the given instructions of login format
+2. You are not attended the session minimum 90 minutes.
+
 
 ### Day1 
 1. [Notebook](Day-1/01_24Aug2020.ipynb)
