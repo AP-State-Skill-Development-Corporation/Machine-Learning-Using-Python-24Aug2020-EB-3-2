@@ -50,3 +50,8 @@ Everyone should compulsory follow the below instruction in order to get the atte
 1. [Notebook](Day-3/03_26Aug2020.ipynb)
 2. [kc_house_data](https://raw.githubusercontent.com/AP-State-Skill-Development-Corporation/Datasets/master/Regression/kc_house_data.csv)
 3. [Recorded class ](https://transcripts.gotomeeting.com/#/s/fb8573eec21443b1396d6c375038cd51bf1f25e4f034dc9b1d33945aa19445ae)
+
+
+### Day4
+1. [Notebook pending](Day-4/04_27Aug2020.ipynb)
+2. [Recorded class ](https://transcripts.gotomeeting.com/#/s/7db7a74a32284bae95ddaad2d374fa6deab0a29ac047a29ed3f0c722cbf8567a)
