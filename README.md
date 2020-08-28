@@ -22,7 +22,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ******************************
 
-#### Your details  printed on certificate so re-verify and if any modifications required update in this [sheet](https://docs.google.com/spreadsheets/d/1AzktFo1TbABRDiwVeTgXgKKUNc6q3rhcf4iFDZ5h3pc/edit?usp=sharing)
+#### Your details  printed on certificate so re-verify and if any modifications required update in this [sheet Removed on 28Aug2020](https://docs.google.com/spreadsheets/d/1AzktFo1TbABRDiwVeTgXgKKUNc6q3rhcf4iFDZ5h3pc/edit?usp=sharing)
 
 
 ### To view your Attendance open this [sheet](https://docs.google.com/spreadsheets/d/1P5M4-MYxCcQgPAZjY7gZKUohCINvNmaAOgDo63us6Dc/edit?usp=sharing)
@@ -55,3 +55,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ### Day4
 1. [Notebook](Day-4/04_27Aug2020.ipynb)
 2. [Recorded class ](https://transcripts.gotomeeting.com/#/s/7db7a74a32284bae95ddaad2d374fa6deab0a29ac047a29ed3f0c722cbf8567a)
+
+### Day5
+1. [Notebook](Day-5/Day5_28Aug2020.ipynb)
+2. [Recorded class pending]()
