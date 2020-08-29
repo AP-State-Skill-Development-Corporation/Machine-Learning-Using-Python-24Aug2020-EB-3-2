@@ -58,4 +58,4 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ### Day5
 1. [Notebook](Day-5/Day5_28Aug2020.ipynb)
-2. [Recorded class pending]()
+2. [Recorded class](https://transcripts.gotomeeting.com/#/s/5e1c9e2f08d7aaeec63b0b8dbdc6f3e8c30d810be8a0c79d1c4aa581dccbcb2e)
