@@ -27,6 +27,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ### To view your Attendance open this [sheet](https://docs.google.com/spreadsheets/d/1P5M4-MYxCcQgPAZjY7gZKUohCINvNmaAOgDo63us6Dc/edit?usp=sharing)
 
+
 #### Reasons for Absent
 1. You are not followed the given instructions of login format
 2. You are not attended the session minimum 90 minutes.
@@ -59,3 +60,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ### Day5
 1. [Notebook](Day-5/Day5_28Aug2020.ipynb)
 2. [Recorded class](https://transcripts.gotomeeting.com/#/s/5e1c9e2f08d7aaeec63b0b8dbdc6f3e8c30d810be8a0c79d1c4aa581dccbcb2e)
+
+### Day6
+1. [Notebook1](Day-6/Day6_29Aug2020.ipynb)
+2. [Recorded class](https://transcripts.gotomeeting.com/#/s/a280040f71cef0186d13f5bff9d8ef0bb183588c0515095b5291476d6f93f0cf)
