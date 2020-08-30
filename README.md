@@ -63,4 +63,5 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ### Day6
 1. [Notebook1](Day-6/Day6_29Aug2020.ipynb)
+2. [Notebook2 pending]()
 2. [Recorded class](https://transcripts.gotomeeting.com/#/s/a280040f71cef0186d13f5bff9d8ef0bb183588c0515095b5291476d6f93f0cf)
