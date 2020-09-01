@@ -22,7 +22,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ******************************
 
-#### Your details  printed on certificate so re-verify and if any modifications required update in this [sheet by 01Sep2020 07:00 PM](https://docs.google.com/spreadsheets/d/1AzktFo1TbABRDiwVeTgXgKKUNc6q3rhcf4iFDZ5h3pc/edit?usp=sharing)
+#### Your details  printed on certificate so re-verify and if any modifications required update in this [sheet today( 01Sep2020) ](https://docs.google.com/spreadsheets/d/1AzktFo1TbABRDiwVeTgXgKKUNc6q3rhcf4iFDZ5h3pc/edit?usp=sharing)
 
 
 ### To view your Attendance open this [sheet](https://docs.google.com/spreadsheets/d/1P5M4-MYxCcQgPAZjY7gZKUohCINvNmaAOgDo63us6Dc/edit?usp=sharing)
