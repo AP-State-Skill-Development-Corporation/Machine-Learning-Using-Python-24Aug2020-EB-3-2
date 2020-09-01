@@ -70,3 +70,8 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ### Day7
 1. [Notebook1](Day-7/Day7.ipynb)
 2. [Recorded class](https://transcripts.gotomeeting.com/#/s/d4418969ec86c306a9275166af612b5888364d68189c786648d407626f189e46)
+
+
+### Day8
+1. [Notebook1](Day-8/Day8.ipynb)
+2. [Recorded class pending]()
