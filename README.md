@@ -82,4 +82,4 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ### Day9
 1. [Notebook](Day-9/Day9.ipynb)
-2. [Recorded class pending]()
+2. [Recorded class](https://transcripts.gotomeeting.com/#/s/3170fa5a7f263176d1ab1df8035ace619d8d1cdad6b1df2df2e7a9277d77227f)
