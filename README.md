@@ -10,6 +10,8 @@ This repository consists of all the files, resources, and recorded session links
 
 #### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
 
+### [Course Content](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-24Aug2020-EB-3-2/blob/master/syllabus.md)
+
 ### Instructions for attendance
 
 Everyone should compulsory follow the below instruction in order to get the attendance --> Certificate
@@ -31,6 +33,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 #### Reasons for Absent
 1. You are not followed the given instructions of login format
 2. You are not attended the session minimum 90 minutes.
+
 
 
 ### Day1 
